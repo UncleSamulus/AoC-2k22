@@ -1,6 +1,9 @@
 //! Read a file containing sets of number
 //! Compute the max of the sum of each set
 //! Print the result
+//! 
+//! # Example
+//! cargo run -- ../input.txt # Execute the program with the input file
 
 use std::fs;
 use std::env;
